@@ -9,5 +9,5 @@ Requirements:
 4.  Calculate minimum, maximum, median and mean land surface temperatures for each date.
 5.  Output at least one converted text dataset.
 
-#About The Data
+# About The Data
 More info about the data you will work with. These datasets map land surface temperatures before and during the California Paradise Fire in late 2018 and 2019. There are 4 datasets in text file format. Each cover the same geographic area on a different date. One of the datasets was captured as the fire was burning.
