@@ -1,5 +1,5 @@
 # NASA SEES Algorithm
-Reading real data files with temperature data - the problem was the temperature data was in 16-bit unsigned integers. And for our purposes it needs to be in Fahrenheight! 
+Reading real data files with temperature data - the problem was the temperature data was in 16-bit unsigned integers. And for our purposes it needs to be in Fahrenheit! 
 
 Requirements:
 
